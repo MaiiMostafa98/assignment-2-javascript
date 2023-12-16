@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+h1
+{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+p
+{
+   font-size: xx-large;
+   font-weight: 100;
+}
+
+button
+{
+   background-color: blue;
+   padding: 20px 70px ;
+   font-size: small;
+   margin-bottom: 50px;
+}
+
+button:hover
+{
+   background-color: green;
+}
+
+.style
+{
+    font-size: xx-large;
+   font-weight: 400;
+}
